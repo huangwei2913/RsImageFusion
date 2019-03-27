@@ -20,7 +20,7 @@ import java.util.zip.Deflater;
 
 
 
-public class RSWeigthUDAF extends UserDefinedAggregateFunction
+public class RSImageFusionUDAF extends UserDefinedAggregateFunction
 {
 
 	private StructType inputSchema;		//表示输入会接收多少列数据
